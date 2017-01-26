@@ -1,0 +1,2 @@
+Application directory contains code for smartphone application related coding
+
